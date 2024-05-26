@@ -15,7 +15,7 @@ public class SecondLargest {
         return secondMax;
     }
     public static void main(String[] args) {
-        int [] arr={10,10,10,15,2,42,8};
+        int [] arr={10,10,10,2,42,8};
         System.out.println(secondLargest(arr));
     }
 }
